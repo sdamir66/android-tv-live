@@ -1,0 +1,8 @@
+android-tv-live/
+ ├── app/
+ │   └── src/main/java/com/example/tvlive/
+ ├── gradle/
+ ├── .github/workflows/
+ ├── build.gradle
+ ├── settings.gradle
+ └── gradlew
